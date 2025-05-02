@@ -31,11 +31,11 @@ Java 8 or higher
 🛠 Running the Game
 Compile and run the game using the following commands:
 
-bash
-Copy
-Edit
-javac Cafe.java
-java Cafe
+- bash
+- Copy
+- Edit
+- javac Cafe.java
+- java Cafe
 
 
 
