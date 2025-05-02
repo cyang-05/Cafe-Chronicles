@@ -39,6 +39,6 @@ Compile and run the game using the following commands:
 
 
 
-Credits
-Developed by Chiashi Yang, Victoria Borges, Kiara Sunil Singh
-Created as part of a course project in CSC120, Smith College
+Credits:
+- Developed by Chiashi Yang, Victoria Borges, Kiara Sunil Singh
+- Created as part of a course project in CSC120, Smith College
